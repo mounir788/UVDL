@@ -1,0 +1,30 @@
+<svg width="142" height="135" viewBox="0 0 142 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_239_84)">
+<rect x="19.9058" y="17.4232" width="94.1884" height="97.1168" stroke="white" stroke-width="5"/>
+<rect x="17.4058" y="8" width="41.1884" height="6.92317" fill="white"/>
+<rect x="116.594" y="110.117" width="8.4058" height="6.92317" fill="white"/>
+<rect x="14.0435" y="25.308" width="6.72464" height="91.7321" fill="white"/>
+<rect x="9" y="53.8662" width="6.72464" height="63.174" fill="white"/>
+</g>
+<rect x="47.7539" y="45.1228" width="10.7382" height="44.8773" fill="white"/>
+<path d="M58.4922 45.1227L63.6376 42.5L64.085 84.4632L58.4922 90V45.1227Z" fill="#CECECE"/>
+<path d="M54.2415 42.5H63.6374L58.4921 45.4141L47.7539 45.1227L54.2415 42.5Z" fill="#E5E5E5"/>
+<rect x="58.4922" y="63.8445" width="10.7382" height="26.1555" fill="white"/>
+<path d="M69.2305 63.8444L74.3758 62.3158L74.8233 86.7729L69.2305 89.9999V63.8444Z" fill="#CECECE"/>
+<path d="M64.9798 62.3159H74.3757L69.2303 64.0143L58.4922 63.8444L64.9798 62.3159Z" fill="#E5E5E5"/>
+<rect x="71.9146" y="64.2987" width="10.7382" height="23.9529" fill="white"/>
+<path d="M82.6528 64.2985L87.7982 62.8987L88.2456 85.2962L82.6528 88.2514V64.2985Z" fill="#CECECE"/>
+<path d="M78.4022 62.8988H87.7981L82.6527 64.4542L71.9146 64.2987L78.4022 62.8988Z" fill="#E5E5E5"/>
+<defs>
+<filter id="filter0_d_239_84" x="0.7" y="0.7" width="140.6" height="133.64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="4" dy="5"/>
+<feGaussianBlur stdDeviation="6.15"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_239_84"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_239_84" result="shape"/>
+</filter>
+</defs>
+</svg>

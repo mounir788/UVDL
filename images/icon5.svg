@@ -1,0 +1,34 @@
+<svg width="142" height="135" viewBox="0 0 142 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_239_86)">
+<rect x="19.9058" y="17.4232" width="94.1884" height="97.1168" stroke="white" stroke-width="5"/>
+<rect x="17.4058" y="8" width="41.1884" height="6.92317" fill="white"/>
+<rect x="116.594" y="110.117" width="8.4058" height="6.92317" fill="white"/>
+<rect x="14.0435" y="25.308" width="6.72464" height="91.7321" fill="white"/>
+<rect x="9" y="53.8661" width="6.72464" height="63.174" fill="white"/>
+<path d="M69.9936 63.7041C69.9936 70.1952 70.812 75.4574 60.8217 75.4574C50.8313 75.4574 37 70.1952 37 63.7041C37 57.2129 50.8313 51.9507 60.8217 51.9507C70.812 51.9507 69.9936 57.2129 69.9936 63.7041Z" fill="white"/>
+<ellipse cx="75.7899" cy="57.1058" rx="6.6879" ry="4.52421" fill="white"/>
+<ellipse cx="81.0131" cy="52.6389" rx="6.6879" ry="4.52421" fill="white"/>
+<ellipse cx="83.6884" cy="57.1058" rx="6.6879" ry="4.52421" fill="white"/>
+<ellipse cx="90.3124" cy="52.5243" rx="6.6879" ry="4.52421" fill="white"/>
+<ellipse cx="6.82805" cy="4.48419" rx="6.82805" ry="4.48419" transform="matrix(0.964594 0.26374 -0.112984 0.993597 68.9688 58.6357)" fill="white"/>
+<ellipse cx="6.82805" cy="4.48419" rx="6.82805" ry="4.48419" transform="matrix(0.964594 0.26374 -0.112984 0.993597 74.6123 55.6426)" fill="white"/>
+<ellipse cx="6.82805" cy="4.48419" rx="6.82805" ry="4.48419" transform="matrix(0.964594 0.26374 -0.112984 0.993597 76.7471 60.7623)" fill="white"/>
+<ellipse cx="6.82805" cy="4.48419" rx="6.82805" ry="4.48419" transform="matrix(0.964594 0.26374 -0.112984 0.993597 83.7837 58.0338)" fill="white"/>
+<ellipse cx="7.16845" cy="4.38192" rx="7.16845" ry="4.38192" transform="matrix(0.882134 0.470999 -0.216774 0.976222 68.5815 64.1838)" fill="white"/>
+<ellipse cx="7.16845" cy="4.38192" rx="7.16845" ry="4.38192" transform="matrix(0.882134 0.470999 -0.216774 0.976222 74.458 62.5967)" fill="white"/>
+<ellipse cx="7.16845" cy="4.38192" rx="7.16845" ry="4.38192" transform="matrix(0.882134 0.470999 -0.216774 0.976222 76.0493 68.1708)" fill="white"/>
+<ellipse cx="7.16845" cy="4.38192" rx="7.16845" ry="4.38192" transform="matrix(0.882134 0.470999 -0.216774 0.976222 83.2744 67.1833)" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_239_86" x="0.7" y="0.7" width="140.6" height="133.64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="4" dy="5"/>
+<feGaussianBlur stdDeviation="6.15"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_239_86"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_239_86" result="shape"/>
+</filter>
+</defs>
+</svg>
